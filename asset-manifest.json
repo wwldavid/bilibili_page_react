@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bilibili_page_react/static/css/main.962d73d9.css",
+    "main.js": "/bilibili_page_react/static/js/main.2f39e4ea.js",
+    "static/media/movie.jpg": "/bilibili_page_react/static/media/movie.08a681eb1d48b2f2c6c2.jpg",
+    "static/media/life.jpg": "/bilibili_page_react/static/media/life.53e1918c94eb9570ea7a.jpg",
+    "static/media/title2.jpg": "/bilibili_page_react/static/media/title2.8c75d5f69abde66f9cea.jpg",
+    "static/media/comment.jpg": "/bilibili_page_react/static/media/comment.16da1dd2bff09f1c76f6.jpg",
+    "static/media/title1.jpg": "/bilibili_page_react/static/media/title1.6bc9e3bdcea8c2de12eb.jpg",
+    "static/media/banner.jpg": "/bilibili_page_react/static/media/banner.0b02ee6f81bdea2a934f.jpg",
+    "static/media/logo.png": "/bilibili_page_react/static/media/logo.806155970198514956ed.png",
+    "static/media/food.jpg": "/bilibili_page_react/static/media/food.f648c397aca3ab1320d5.jpg",
+    "index.html": "/bilibili_page_react/index.html",
+    "main.962d73d9.css.map": "/bilibili_page_react/static/css/main.962d73d9.css.map",
+    "main.2f39e4ea.js.map": "/bilibili_page_react/static/js/main.2f39e4ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.962d73d9.css",
+    "static/js/main.2f39e4ea.js"
+  ]
+}
